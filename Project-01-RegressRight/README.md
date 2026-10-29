@@ -1,4 +1,4 @@
-# Project 01 — RegressRight 🍷
+# Project 01 - RegressRight 🍷
 
 **Machine Learning Model:** Linear Regression  
 **Task:** Red Wine Quality Prediction  
