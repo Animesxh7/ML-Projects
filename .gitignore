@@ -1,0 +1,15 @@
+# Dataset
+winequality-white.csv
+winequality-red.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
